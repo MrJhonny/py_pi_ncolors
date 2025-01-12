@@ -24,7 +24,7 @@ This script requires Python 3 and the following libraries:
 1. Clone this repository or download the script:
    ```bash
    git clone git@github.com:MrJhonny/py_pi_ncolors.git
-   cd pi-image-generator
+   cd py_pi_ncolors
    ```
 
 2. Set up a virtual environment (optional but recommended):
