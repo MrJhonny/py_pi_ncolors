@@ -23,7 +23,7 @@ This script requires Python 3 and the following libraries:
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/pi-image-generator.git
+   git clone git@github.com:MrJhonny/py_pi_ncolors.git
    cd pi-image-generator
    ```
 
